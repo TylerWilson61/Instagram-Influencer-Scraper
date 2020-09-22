@@ -1,0 +1,30 @@
+Invalid port. Exiting...
+1594228023054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gn/l9jth1190r1bbxb83xp5r4k40000gn/T/rust_mozprofileY3p53x"
+1594228028627	Marionette	INFO	Listening on port 56124
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101, line 6: Script terminated by timeout at:
+tg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:53124
+rg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:52601
+qg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:52160
+yg.prototype.a@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:53798
+hg/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:48216
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3152
+hg@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:48189
+eh/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:62482
+x@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:3152
+eh@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:62391
+ch@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:59133
+$g.prototype.zb@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:58760
+Ve/a.a<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:33454
+ce/</<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26579
+$d/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26121
+Jd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23543
+$d@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26429
+ce/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:26552
+Jd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23543
+Jd/<@https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101:6:23587
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594228478473	Marionette	INFO	Stopped listening on port 56124
